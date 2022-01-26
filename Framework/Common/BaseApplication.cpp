@@ -11,5 +11,5 @@ void My::BaseApplication::Tick(){
 
 }
 bool My::BaseApplication::IsQuit(){
-
+    return m_bQuit;
 }

@@ -1,0 +1,9 @@
+﻿  Checking Build System
+  CMake is re-running because F:/ENGINE_workplace/Vizon/new/Framework/Common/CMakeFiles/generate.stamp is out-of-date.
+    the file 'F:/ENGINE_workplace/Vizon/Framework/Common/CMakeLists.txt'
+    is newer than 'F:/ENGINE_workplace/Vizon/new/Framework/Common/CMakeFiles/generate.stamp.depend'
+    result='-1'
+  -- Selecting Windows SDK version 10.0.19041.0 to target Windows 10.0.19042.
+  -- Configuring done
+  -- Generating done
+  -- Build files have been written to: F:/ENGINE_workplace/Vizon/new

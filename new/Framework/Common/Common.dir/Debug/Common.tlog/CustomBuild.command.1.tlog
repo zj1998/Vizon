@@ -1,0 +1,10 @@
+^F:\ENGINE_WORKPLACE\VIZON\FRAMEWORK\COMMON\CMAKELISTS.TXT
+setlocal
+F:\Cmake\bin\cmake.exe -SF:/ENGINE_workplace/Vizon -BF:/ENGINE_workplace/Vizon/new --check-stamp-file F:/ENGINE_workplace/Vizon/new/Framework/Common/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

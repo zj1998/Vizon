@@ -1,0 +1,10 @@
+^F:\ENGINE_WORKPLACE\VIZON\NEW\CMAKEFILES\24BE8BD7B75CB6160AFBB4DDBCC35B84\GENERATE.STAMP.RULE
+setlocal
+F:\Cmake\bin\cmake.exe -SF:/ENGINE_workplace/Vizon -BF:/ENGINE_workplace/Vizon/new --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file F:/ENGINE_workplace/Vizon/new/GameEngineFromScrath.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

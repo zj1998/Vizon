@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Framework/Interface/IRuntimeModule.hpp
+Interface.hpp
+../Framework/Interface/Interface.hpp
+
+../Framework/Interface/Interface.hpp
+
+/mnt/f/ENGINE_workplace/vizon/Framework/Common/GraphicsManager.cpp
+GraphicsManager.hpp
+/mnt/f/ENGINE_workplace/vizon/Framework/Common/GraphicsManager.hpp
+
+/mnt/f/ENGINE_workplace/vizon/Framework/Common/GraphicsManager.hpp
+IRuntimeModule.hpp
+/mnt/f/ENGINE_workplace/vizon/Framework/Common/IRuntimeModule.hpp
+

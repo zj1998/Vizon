@@ -1,0 +1,10 @@
+/mnt/f/ENGINE_workplace/vizon/build/CMakeFiles/rebuild_cache.dir
+/mnt/f/ENGINE_workplace/vizon/build/CMakeFiles/edit_cache.dir
+/mnt/f/ENGINE_workplace/vizon/build/Framework/CMakeFiles/rebuild_cache.dir
+/mnt/f/ENGINE_workplace/vizon/build/Framework/CMakeFiles/edit_cache.dir
+/mnt/f/ENGINE_workplace/vizon/build/Framework/Common/CMakeFiles/rebuild_cache.dir
+/mnt/f/ENGINE_workplace/vizon/build/Framework/Common/CMakeFiles/edit_cache.dir
+/mnt/f/ENGINE_workplace/vizon/build/Framework/Common/CMakeFiles/Common.dir
+/mnt/f/ENGINE_workplace/vizon/build/Empty/CMakeFiles/rebuild_cache.dir
+/mnt/f/ENGINE_workplace/vizon/build/Empty/CMakeFiles/edit_cache.dir
+/mnt/f/ENGINE_workplace/vizon/build/Empty/CMakeFiles/Empty.dir
